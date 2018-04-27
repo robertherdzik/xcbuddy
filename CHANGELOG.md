@@ -16,6 +16,7 @@ Please, check out guidelines: https://keepachangelog.com/en/1.0.0/
 * Add `ResourceLocator` https://github.com/xcbuddy/xcbuddy/pull/18 by @pepibumur.
 * Add `ErrorHandler` https://github.com/xcbuddy/xcbuddy/pull/20 by @pepibumur.
 * Add Danger https://github.com/xcbuddy/xcbuddy/pull/21 by @pepibumur.
+* Add `embed-framework` cli https://github.com/xcbuddy/xcbuddy/pull/22 by @pepibumur.
 
 ### Changed
 
